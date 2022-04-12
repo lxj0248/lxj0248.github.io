@@ -1,0 +1,35 @@
+/* CSS styles */
+body {
+  background-color: wheat;
+}
+#inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60%;
+  width: 50%;
+  position: relative;
+}
+#waves {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+h1 {
+  display: flex;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 72;
+  filter: invert(1);
+  mix-blend-mode: difference;
+  position: absolute;
