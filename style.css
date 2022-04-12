@@ -29,7 +29,7 @@ body {
 h1 {
   display: flex;
   font-family: 'Montserrat', sans-serif;
-  font-size: 72;
+  font-size: 72px;
   filter: invert(1);
   mix-blend-mode: difference;
   position: absolute;
