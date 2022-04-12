@@ -33,3 +33,11 @@ h1 {
   filter: invert(1);
   mix-blend-mode: difference;
   position: absolute;
+}
+h1:hover {
+  display: flex;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 72px;
+  filter: invert(1);
+  position: absolute;
+}
